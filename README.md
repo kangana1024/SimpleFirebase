@@ -3,7 +3,7 @@
 
 หลังจากแตกไฟล์หรือ git clone ให้เปิด command หรือ terminal จากนั้น cd เข้าไปใน folder ของ project นี้จากนั้นพิมพ์คำสั่ง <br/>
 <code>
-npm install <br/>
+npm install </code><br/><code>
 react-native link
 </code><br/>
 
