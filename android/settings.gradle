@@ -1,0 +1,3 @@
+rootProject.name = 'SimpleFirbase'
+
+include ':app'
